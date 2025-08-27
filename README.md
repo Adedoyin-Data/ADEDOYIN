@@ -11,8 +11,11 @@ B.Agriculture (Agricultural Economics)
 
 # SKILLS
 Data Analysis: Excel, Python
+
 Business Intelligence: Power BI
+
 Database Management: SQL
+
 Version Control: Git, GitHub
 
 # PROJECT
