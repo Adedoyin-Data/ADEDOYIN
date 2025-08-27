@@ -10,10 +10,13 @@ I'm currently focused on expanding my skills and building end-to-end data pipeli
 B.Agriculture (Agricultural Economics)
 
 # SKILLS
-- Data Analysis: Excel, Python
-- Business Intelligence: Power BI
-- Database Management: SQL
-- Version Control: Git, GitHub
+Data Analysis: Excel, Python
+Business Intelligence: Power BI
+Database Management: SQL
+Version Control: Git, GitHub
+
+# PROJECT
+Healthcare dashboard
 
 # LET'S CONNECT
 [LinkedIn](https://www.linkedin.com/in/abdulrahmon-yusuf)
