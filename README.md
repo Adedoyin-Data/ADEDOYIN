@@ -6,6 +6,9 @@ I'm a data analyst with a solid foundation in data cleaning, modeling, and visua
 
 I'm currently focused on expanding my skills and building end-to-end data pipelines.
 
+# EDUCATION
+B.Agriculture (Agricultural Economics)
+
 # SKILLS
 - Data Analysis: Excel, Python
 - Business Intelligence: Power BI
